@@ -1,0 +1,12 @@
+.circle {
+  width:70px;
+  height: 70px;
+  border-radius: 50%;
+  cursor: pointer;
+}
+.main-container{
+  width:70%;
+}
+body{
+  background-color: rgb(6, 40, 59);
+}
